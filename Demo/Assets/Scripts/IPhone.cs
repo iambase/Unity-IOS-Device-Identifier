@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System;
-public enum Generation
+public enum IphoneGeneration
 {
     Unknown,
     iPhone,
@@ -44,13 +44,13 @@ public class IPhones
 
 public static class IPhone
 {
-    private static Generation _Gen { get; set; } = Generation.Unknown;
+    private static IphoneGeneration _Gen { get; set; } = IphoneGeneration.Unknown;
 
-    public static Generation Generation
+    public static IphoneGeneration Generation
     {
         get
         {
-            if (_Gen == Generation.Unknown)
+            if (_Gen == IphoneGeneration.Unknown)
             {
                 SetGen();
             }
@@ -65,7 +65,7 @@ public static class IPhone
         {
             if (devices.iphoneInfos[x].model == SystemInfo.deviceModel)
             {
-                if (Enum.TryParse(devices.iphoneInfos[x].generation, out Generation result))
+                if (Enum.TryParse(devices.iphoneInfos[x].generation, out IphoneGeneration result))
                 {
                     _Gen = result;
                     return;
