@@ -1,0 +1,144 @@
+{ 
+	"iphoneInfos":[
+		{
+			"model": "iPhone1,1",
+			"generation": "iPhone"
+		},
+		{
+			"model": "iPhone1,2",
+			"generation": "iPhone3G"
+		},
+		{
+			"model": "iPhone2,1",
+			"generation": "iPhone3GS"
+		},
+		{
+			"model": "iPhone3,1",
+			"generation": "iPhone4"
+		},
+		{
+			"model": "iPhone3,2",
+			"generation": "iPhone4"
+		},
+		{
+			"model": "iPhone3,3",
+			"generation": "iPhone4"
+		},
+		{
+			"model": "iPhone4,1",
+			"generation": "iPhone4S"
+		},
+		{
+			"model": "iPhone5,1",
+			"generation": "iPhone5"
+		},
+		{
+			"model": "iPhone5,2",
+			"generation": "iPhone5"
+		},
+		{
+			"model": "iPhone5,3",
+			"generation": "iPhone5C"
+		},
+		{
+			"model": "iPhone5,4",
+			"generation": "iPhone5C"
+		},
+		{
+			"model": "iPhone6,1",
+			"generation": "iPhone5S"
+		},
+		{
+			"model": "iPhone6,2",
+			"generation": "iPhone5S"
+		},
+		{
+			"model": "iPhone7,1",
+			"generation": "iPhone6Plus"
+		},
+		{
+			"model": "iPhone7,2",
+			"generation": "iPhone6"
+		},
+		{
+			"model": "iPhone8,1",
+			"generation": "iPhone6s"
+		},
+		{
+			"model": "iPhone8,2",
+			"generation": "iPhone6sPlus"
+		},
+		{
+			"model": "iPhone8,4",
+			"generation": "iPhoneSE"
+		},
+		{
+			"model": "iPhone9,1",
+			"generation": "iPhone7"
+		},
+		{
+			"model": "iPhone9,2",
+			"generation": "iPhone7Plus"
+		},
+		{
+			"model": "iPhone9,3",
+			"generation": "iPhone7"
+		},
+		{
+			"model": "iPhone9,4",
+			"generation": "iPhone7Plus"
+		},
+		{
+			"model": "iPhone10,1",
+			"generation": "iPhone8"
+		},
+		{
+			"model": "iPhone10,2",
+			"generation": "iPhone8Plus"
+		},
+		{
+			"model": "iPhone10,3",
+			"generation": "iPhoneX"
+		},
+		{
+			"model": "iPhone10,4",
+			"generation": "iPhone8"
+		},
+		{
+			"model": "iPhone10,5",
+			"generation": "iPhone8Plus"
+		},
+		{
+			"model": "iPhone10,6",
+			"generation": "iPhoneX"
+		},
+		{
+			"model": "iPhone11,2",
+			"generation": "iPhoneXS"
+		},
+		{
+			"model": "iPhone11,4",
+			"generation": "iPhoneXSMax"
+		},
+		{
+			"model": "iPhone11,6",
+			"generation": "iPhoneXSMax"
+		},
+		{
+			"model": "iPhone11,8",
+			"generation": "iPhoneXR"
+		},
+		{
+			"model": "iPhone12,1",
+			"generation": "iPhone11"
+		},
+		{
+			"model": "iPhone12,3",
+			"generation": "iPhone11Pro"
+		},
+		{
+			"model": "iPhone12,5",
+			"generation": "iPhone11ProMax"
+		}
+	]
+}
